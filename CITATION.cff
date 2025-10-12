@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "OCTAVie: An open-source ultrasonic acquisition platform for animal vocalization studies"
+version: "1.0.0"
+doi:    # replace with actual Zenodo DOI after release
+date-released: 2025-09-01
+authors:
+  - family-names: "Durieux"
+    given-names: "Laura"
+    orcid: "0000-0000-0000-0000"   # optional, if you have one
+    affiliation: "ICube, LNCA, Strasbourg, France"
+  - family-names: "Kammerer"
+    given-names: "Jean-Baptiste"
+    affiliation: "ICube, Strasbourg, France"
+  - family-names: "Schmitt"
+    given-names: "Simon"
+    affiliation: "Université de Strasbourg"
+  - family-names: "Barbelivien"
+    given-names: "Alexandra"
+    affiliation: "LNCA, Strasbourg, France"
+  - family-names: "Majchrzak"
+    given-names: "Monique"
+    affiliation: "LNCA, Strasbourg, France"
+  - family-names: "Stock"
+    given-names: "François"
+    affiliation: "ICube, Strasbourg, France"
+  - family-names: "Antoni"
+    given-names: "Frédéric"
+    affiliation: "ICube, Strasbourg, France"
+type: software and hardware
+repository-code: 
+license: "CERN-OHL-S-2.0 AND GPL-3.0 AND CC-BY-SA-4.0"

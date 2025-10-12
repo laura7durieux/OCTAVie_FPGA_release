@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OCTAV_librairies")(type "KiCad")(uri "${KIPRJMOD}/OCTAV_librairies.pretty")(options "")(descr ""))
+  (lib (name "Connector_WR_WTB_1.50")(type "KiCad")(uri "D:/Documents/OneDrive/ProjetOCTAV/Carte_pcb/Microphone_smd/Connector_WR_WTB_1.50")(options "")(descr ""))
+  (lib (name "OCTAV_footprint")(type "KiCad")(uri "${KIPRJMOD}/OCTAV_footprint.pretty")(options "")(descr ""))
+  (lib (name "_OCTAV_footprint")(type "KiCad")(uri "${KIPRJMOD}/_OCTAV_footprint.pretty")(options "")(descr ""))
+)
