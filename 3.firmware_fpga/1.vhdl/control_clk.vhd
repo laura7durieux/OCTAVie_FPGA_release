@@ -33,6 +33,8 @@
 --
 -- Revision history:
 --   v1.0 – Documentation in English for HardwareX publication.
+-- 
+-- Author : L. Durieux
 -- ============================================================================
 
 library ieee;

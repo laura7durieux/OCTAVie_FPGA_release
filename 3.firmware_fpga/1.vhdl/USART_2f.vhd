@@ -35,6 +35,8 @@
 --
 -- Revision history:
 --   v1.0 – English documentation added for publication.
+-- 
+-- Author : L. Durieux
 -----------------------------------------------------------------------------------------
 
 LIBRARY IEEE;

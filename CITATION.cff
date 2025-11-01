@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this project, please cite it as below."
 title: "OCTAVie: An open-source ultrasonic acquisition platform for animal vocalization studies"
 version: "1.0.0"
-doi:    # replace with actual Zenodo DOI after release
+doi: 10.5281/zenodo.17356089
 date-released: 2025-09-01
 authors:
   - family-names: "Durieux"

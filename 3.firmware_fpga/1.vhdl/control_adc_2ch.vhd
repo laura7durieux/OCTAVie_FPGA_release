@@ -34,6 +34,8 @@
 --
 -- Revision history:
 --   v1.0 – Full English documentation for HardwareX article.
+-- 
+-- Author : L. Durieux
 -- ============================================================================
 
 library ieee;

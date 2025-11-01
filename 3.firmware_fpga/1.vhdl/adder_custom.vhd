@@ -17,6 +17,8 @@
 --
 -- Revision history:
 --   v1.0 – Initial implementation and documentation for HardwareX article.
+-- 
+-- Author : L. Durieux
 -- ============================================================================
 
 library IEEE;

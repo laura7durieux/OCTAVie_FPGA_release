@@ -5,13 +5,13 @@
 / @LauraDurieux
 
 # Hardware (PCB, CAD)
-/hardware/ @LauraDurieux @JeanBaptisteK
+/hardware/ @LauraDurieux 
 
 # FPGA firmware
-/firmware_fpga/ @LauraDurieux @JeanBaptisteK
+/firmware_fpga/ @LauraDurieux
 
 # PC software
-/software_pc/ @JeanBaptisteK @LauraDurieux
+/software_pc/ @JeanBaptisteK
 
 # Documentation
 /docs/ @LauraDurieux
